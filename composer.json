@@ -1,5 +1,5 @@
 {
-  "name": "kasparsj/scopus-search-api",
+  "name": "vincentauger/scopus-search-api",
   "description": "Scopus API for PHP (Unofficial)",
   "minimum-stability": "dev",
   "license": "MIT",
@@ -15,7 +15,7 @@
     }
   ],
   "require": {
-    "guzzlehttp/guzzle": "6.2.1"
+    "guzzlehttp/guzzle": "7.2.0"
   },
   "autoload": {
     "psr-0": {
